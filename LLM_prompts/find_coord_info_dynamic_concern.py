@@ -53,7 +53,7 @@ for c,c_leg in zip(io_cols,legible_cols):
 # Split data by concerns (or topics if challenge)
 # Use LLM to say "if concern is terrorism, what are they saying, etc."
 
-phase1a_file = 'AllCombinedTwitterData+text_new.csv'#['INCASdatasets/master_p1a_usc_ta1/master_timeslice_two_remainder_actor_filtered_usc_ta1.json','INCASdatasets/master_p1a_usc_ta1/master_both_timeslice_one_remainder_actor_filterd_usc_ta1.json']
+phase1a_file = 'AllCombinedTwitterData+text_new.csv'
 phase1a_G_file = 'hashtag_coord_phase1b=False.edgelist'
 phase1b_file = 'Phase1B_all_twitter_data.csv'
 phase1b_G_file = 'hashtag_coord_phase1b=True.edgelist'
