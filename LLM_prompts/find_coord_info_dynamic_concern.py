@@ -10,10 +10,7 @@ import pandas as pd
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from openai import OpenAI
 
-#openai_organization = "org-212tdTis5FNjilP3wfbnVMx6"#"org-E46bDUO09nphin8ElUt7iccS"
-#openai_api_key = "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"#"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"
-openai_api_key = "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"
-#"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"#"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"
+#openai_api_key = ""
 #model_engine = "gpt-4-turbo-preview"#
 model_engine = "gpt-3.5-turbo"
 client = OpenAI(
