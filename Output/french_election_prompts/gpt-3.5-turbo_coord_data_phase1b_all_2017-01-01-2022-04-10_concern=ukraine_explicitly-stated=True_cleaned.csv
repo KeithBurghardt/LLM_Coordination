@@ -1,0 +1,512 @@
+"The below posts are from an information operation. State the country targeted by the information operation for the posts. Provide your answers with as few words as possible. 
+","The below posts are from an information operation. State the country running the information operation for the posts. Provide your answers with as few words as possible. 
+","The below posts are from an information operation. State the type of political goal for the posts. Provide your answers with as few words as possible. 
+","The below posts are from an information operation. State the political goal of the information operation for the posts. Provide your answers with as few words as possible. 
+","The below posts are from an information operation. State the description of the information operation for the posts. Provide your answers with as few words as possible. 
+","The below posts are from an information operation. State the starting month of the information operation for the posts. Provide your answers with as few words as possible. 
+",State the major themes from the following posts:,"Here is a list of intentional fallacies: Abusive Ad Hominem, Accent, Accentus, Accident, Ad Baculum, Ad Consequentiam, Ad Crumenum, Ad Hoc Rescue, Ad Hominem, Ad Hominem- Circumstantial, Ad Ignorantiam, Ad Misericordiam, Ad Novitatem, Ad Numerum, Ad Populum, Ad Verecundiam, Affirming the Consequent, Against the Person, All-or-Nothing, Ambiguity, Amphiboly, Anecdotal Evidence, Anthropomorphism, Appeal to Authority, Appeal to Consequence, Appeal to Emotions, Appeal to Force, Appeal to Ignorance, Appeal to Money, Appeal to Past Practice, Appeal to Pity, Appeal to Snobbery, Appeal to the Gallery, Appeal to the Masses, Appeal to the Mob, Appeal to the People, Appeal to the Stick, Appeal to Traditional Wisdom, Appeal to Vanity, Appeal to Unqualified Authority, Argument from Ignorance, Argument from Outrage, Argument from Popularity, Argumentum Ad …., Argumentum Consensus Gentium, Availability Heuristic, Avoiding the Issue, Avoiding the Question, Bad Seed, Bald Man, Bandwagon, Begging the Question, Beside the Point, Biased Generalizing, Biased Sample, Biased Statistics, Bifurcation, Black-or-White, Caricaturization, Changing the Question, Cherry-Picking, Circular Reasoning, Circumstantial Ad Hominem, Clouding the Issue, Common Belief, Common Cause., Common Practice, Complex Question, Composition, Confirmation Bias, Confusing an Explanation with an Excuse, Conjunction, Consensus Gentium, Consequence, Contextomy, Converse Accident, Cover-up, Cum Hoc - Ergo Propter Hoc, Curve Fitting, Definist, Denying the Antecedent, Digression, Disregarding Known Science, Distraction, Division, Domino, Double Standard, Either/Or, Equivocation, Etymological, Every and All, Exaggeration, Excluded Middle, False Analogy, False Balance, False Cause, False Dichotomy, False Dilemma, False Equivalence, Far-Fetched Hypothesis, Faulty Comparison, Faulty Generalization, Faulty Motives, Formal, Four Terms, Gambler’s, Genetic, Group Think, Guilt by Association, Hasty Conclusion, Hasty Generalization, Heap, Hedging, Hooded Man, Hyperbolic Discounting, Hypostatization, Ideology-Driven Argumentation, Ignoratio Elenchi, Ignoring a Common Cause, Ignoring Inconvenient Data, Improper Analogy, Incomplete Evidence, Inconsistency, Inductive Conversion, Insufficient Statistics, Intensional, Invalid Reasoning, Irrelevant Conclusion, Irrelevant Reason, Is-Ought, Jumping to Conclusions, Lack of Proportion, Line-Drawing, Loaded Language, Loaded Question, Logic Chopping, Logical Fallacy, Lying, Maldistributed Middle, Many Questions, Misconditionalization, Misleading Accent, Misleading Vividness, Misplaced Burden of Proof, Misplaced Concreteness, Misrepresentation, Missing the Point, Mob Appeal, Modal, Monte Carlo, Name Calling, Naturalistic, Neglecting a Common Cause, No Middle Ground, No True Scotsman, Non Causa Pro Causa, Non Sequitur, Obscurum per Obscurius, One-Sidedness, Opposition, Outrage - Argument from, Over-Fitting, Overgeneralization, Oversimplification, Past Practice, Pathetic, Peer Pressure, Perfectionist, Persuasive Definition, Petitio Principii, Poisoning the Well, Popularity - Argument from, Post Hoc, Prejudicial Language, Proof Surrogate, Prosecutor’s Fallacy, Prosody, Quantifier Shift, Question Begging, Questionable Analogy, Questionable Cause, Questionable Premise, Quibbling, Quoting out of Context, Rationalization, Red Herring, Refutation by Caricature, Regression, Reification, Reversing Causation, Scapegoating, Scare Tactic, Scope, Secundum Quid, Selective Attention, Self-Fulfilling Prophecy, Self-Selection, Sharpshooter’s, Slanting, Slippery Slope, Small Sample, Smear Tactic, Smokescreen, Sorites, Special Pleading, Specificity, Stacking the Deck, Stereotyping, Straw Man, Style Over Substance, Subjectivist, Superstitious Thinking, Suppressed Evidence, Sweeping Generalization, Syllogistic, Texas Sharpshooter’s, Tokenism, Traditional Wisdom, Tu Quoque, Two Wrongs do not Make a Right, Undistributed Middle, Unfalsifiability, Unrepresentative Sample, Unrepresentative Generalization, Untestability, Vested Interest, Victory by Definition, Willed ignorance, Wishful Thinking, You Too
+ Create a list of which, if any, of these fallacies exist in the following posts and explain why this fallacies exists. Finally, provide an example of a post associated with each fallacy:","List the cultural cues or in-group language is being used in the following posts, and explain what is the culture or in-group implied by these posts:",List the language motifs  mentioned in the following posts:,"The below posts are from a coordinated campaign. Explain which, if any, posts use an Engage tactic (bring up a related but relevant topic)","The below posts are from a coordinated campaign. Explain which, if any, posts use an Explain tactic (provide details on or elaborate a topic)","The below posts are from a coordinated campaign. Explain which, if any, posts use an Excite tactic (elicit a positive emotion such as joy or excitement)","The below posts are from a coordinated campaign. Explain which, if any, posts use an Enhance tactic (encourage the topic-group to continue with the topic)","The below posts are from a coordinated campaign. Explain which, if any, posts use a Distort tactic (alter the main message of the topic)","The below posts are from a coordinated campaign. Explain which, if any, posts use a Dismay tactic  (elicit a negative emotion such as sadness or anger)","The below posts are from a coordinated campaign. Explain which, if any, posts use a Distract tactic (discuss a completely different irrelevant topic). Show examples of these posts and explain why these use the tactic.",size,tweets,problem,cause,remedy,metaphore,catchphrase,slogan,motif,frame_examples,"The below posts are from a coordinated campaign. Explain which, if any, posts use a Dismiss tactic (explain why the topic is not important)"
+France,France,Promoting a pro-Russian narrative.,"The political goal of the information operation for the posts is to shape the narrative around the conflict in Ukraine, influence public opinion on the actions of various political leaders and organizations involved, and promote or discredit certain viewpoints or policies related to the crisis.",Information operation: Influence operation regarding the conflict in Ukraine.,March,"The major themes from the given posts about Ukraine are:
+1. Support for Ukraine and condemnation of Russian intervention in the country
+2. Calls for peace and negotiation to end the conflict
+3. Discussion on the involvement of international actors such as NATO and the European Union
+4. Concerns about the impact of the war on refugees and neighboring countries
+5. Debate on the geopolitical implications and potential solutions to the conflict, including proposals for Ukraine's neutral status and recognition of Crimea's status
+6. Criticism and support for specific political leaders and their actions in relation to the conflict.","1. Post by @UPR_Asselineau: ""13/03/13 Le cardinal Bergoglio est élu pape François ▪️19/12/13 Il choisit MacKinsey pour «moderniser la communication et la comptabilité» du Vatican ▪️4/04/22 Il compte aller à Kiev pour soutenir les 2 mafieux notoires Zelensky et Klitschko"" - Appeals to Emotions fallacy. This post is designed to evoke feelings of distrust and negative emotions towards specific individuals (Zelensky and Klitschko) by associating them with the term ""mafieux notoires"" (notorious mobsters).
+2. Post by @UPR_Asselineau: ""LES AFFAIRES DU FILS BIDEN EN UKRAINE SE PRÉCISENT Le gvt russe a tenu une conférence de presse pour révéler que Hunter Biden [fils du président🇺🇸] a contribué au financement d'un programme de recherche militaire🇺🇸 sur les «ARMES BIOLOGIQUES» en Ukraine."" - Guilt by Association fallacy. This post attempts to discredit Hunter Biden by associating him with negative connotations like ""ARMES BIOLOGIQUES"" (biological weapons) without providing concrete evidence.
+3. Post by @JLMelenchon: ""De la guerre en #Ukraine au meeting pour la paix - Le 13e épisode de notre série-docu est en ligne."" - False Dichotomy fallacy. This post presents a false dichotomy by implying that the only options are war in Ukraine or peace through their series, ignoring the complexity of the situation.
+4. Post by @ZemmourEric: ""On ne peut pas rester insensible à la douleur des réfugiés. Les Ukrainiens veulent aller en Pologne, rester à proximité de leurs proches qui se battent et pouvoir rentrer en Ukraine. Il faut les aider."" - Appeal to Emotions fallacy. This post appeals to emotions by using emotional language to elicit sympathy and support for the Ukrainian refugees without addressing the broader context of the conflict.
+5. Post by @ZemmourEric: ""Les frontières de l’Ukraine doivent être reconnues par la Russie et l’OTAN doit s’engager à ce que l’Ukraine ne devienne jamais un de ses membres."" - False Equivalence fallacy. This post creates a false equivalence between the actions of Russia and NATO regarding Ukraine's borders, suggesting they hold equal responsibility in the conflict.","1. ""SAINT MACKINSEY PRIEZ POUR NOUS!"" - This post contains religious and cultural references related to Catholicism.
+2. ""retrouvez mon interview exclusive dans @leJDD"" - This post references a specific French publication, implying a French-speaking audience.
+3. ""Macron et les 11 autres 'candidats officiels'"" - This post references French political figures and the upcoming presidential election, indicating a French political context.
+4. ""Tous les humanistes doivent se mobiliser et manifester leur soutien à l’Ukraine. Pour l’Europe."" - This post references humanism and European unity, suggesting a pro-European sentiment.
+5. ""Je condamne sans réserve l’intervention militaire russe en Ukraine."" - This post expresses condemnation of the Russian military intervention in Ukraine.
+6. ""Les frontières de l’Ukraine doivent être reconnues par la Russie..."" - This post discusses recognition of Ukrainian borders in relation to Russia and NATO.
+7. ""4 CONDITIONS Le Kremlin annonce qu'il cessera aussitôt la guerre si l'Ukraine..."" - This post outlines conditions for peace in the Ukraine conflict set by the Kremlin.
+8. ""Hier sur France 2 j'ai suggéré le passage au statut de neutralité de l' # Ukraine."" - This post mentions a French TV channel and discusses a potential solution for the Ukraine conflict.
+9. ""Je propose de pavoiser aux couleurs de l' # Ukraine tous les bâtiments officiels en solidarité avec le peuple ukrainien."" - This post suggests a symbolic gesture in support of Ukraine. 
+
+The culture or in-group implied by these posts is primarily French, given the references to French political figures, publications, and the French-speaking audience. There are also references to Catholicism and European unity, suggesting a broader Western cultural context.","- Conflict and war: ""Guerre de la Russie en Ukraine"", ""intervention militaire russe en Ukraine"", ""cesse aussitôt la guerre""
+- Peace and peace efforts: ""manifestation pour la paix"", ""Je propose de pavoiser aux couleurs de l'#Ukraine""
+- Sanctions and diplomacy: ""sanctions économiques"", ""renouvelle mes demandes solennelles""
+- International relations: ""frontières de l’Ukraine"", ""entrée de l'Ukraine dans l'Union européenne""","The following posts use an Engage tactic by bringing up a related but relevant topic:
+
+1. RT @UPR_Asselineau ⚠️LES AFFAIRES DU FILS BIDEN EN UKRAINE SE PRÉCISENT Le gvt russe a tenu une conférence de presse pour révéler que Hunter Biden [fils du président🇺🇸] a contribué au financement d'un programme de recherche militaire🇺🇸 sur les «ARMES BIOLOGIQUES» en Ukraine. https://t.co/6uKCwcVGSg
+
+2. RT @UPR_Asselineau 🇺🇦🇪🇺 Êtes-vous POUR ou CONTRE l'entrée de l'Ukraine dans l'Union européenne ?
+
+These posts bring up the topic of Ukraine's relations with the United States and the European Union, respectively, which are related but relevant to the main discussion about the conflict in Ukraine.","The following posts use an Explain tactic:
+- RT @UPR_Asselineau provides details about the dates when Cardinal Bergoglio became Pope Francis, when he chose McKinsey to modernize the Vatican, and his plans to support Ukrainian politicians in Kiev.
+- RT @dupontaignan elaborates on the need to stop arms deliveries, demand Ukraine's neutrality, and the withdrawal of Russian troops in order to prevent a deadly conflict.","Posts using an Excite tactic:
+- RT @yjadot Merci @rglucks1 ! Tous les humanistes doivent se mobiliser et manifester leur soutien à l’Ukraine. Pour l’Europe.
+
+Posts not using an Excite tactic:
+- RT @UPR_Asselineau 🇺🇸🇻🇦SAINT MACKINSEY PRIEZ POUR NOUS! ▪️13/03/13 Le cardinal Bergoglio est élu pape François ▪️19/12/13 Il choisit MacKinsey pour «moderniser la communication et la comptabilité» du Vatican ▪️4/04/22 Il compte aller à Kiev pour soutenir les 2 mafieux notoires Zelensky et Klitschko https://t.co/NNq6iDX4lL
+- RT @JLMelenchon 🔴 Guerre de la #Russie en #Ukraine, sanctions économiques : retrouvez mon interview exclusive dans @leJDD, aujourd'hui dans les kiosques et chez votre marchand de journaux. https://t.co/xySMnUKiAB
+- RT @UPR_Asselineau [5 - Fin] Je renouvelle mes demandes solennelles. Macron et les 11 autres ""candidats officiels"" à la présidentielle doivent exiger que -🇪🇺cesse toute livraison d'armes à 🇺🇦 -Zelensky accepte les 4 conditions de Poutine qui ne sont pas déraisonnables LA PAIX MONDIALE EST EN JEU !
+- RT @dupontaignan ""Ce n'est pas faire preuve de faiblesse que de dire stop: on arrête les livraisons d'armes, on réclame la neutralité de l'Ukraine et le retrait des troupes russes. Je trouve fou que par le jeu des alliances, comme en 14-18, on monte dans l'escalade vers un conflit meurtrier.""#LCI
+- RT @UPR_Asselineau 🚨Des «instructeurs» étrangers de l'OTAN figureraient parmi les 35 morts et 134 blessés (bilan provisoire). ⚠️Avec cette frappe,Poutine et l'état-major des forces armées russes révèlent au monde entier qu'ils n'ont pas la berlue: l'OTAN est dejà bel et bien implantée en Ukraine!
+- RT @ZemmourEric Je condamne sans réserve l’intervention militaire russe en Ukraine. https://t.co/SbTsF98feN
+- RT @ZemmourEric Les frontières de l’Ukraine doivent être reconnues par la Russie et l’OTAN doit s’engager à ce que l’Ukraine ne devienne jamais un de ses membres. #LeGrandRDV https://t.co/3xI2ZYwp6K
+- RT @JLMelenchon 1h de voiture pour mettre un enfant au monde, c’est insupportable ! Faire payer les gens 18€ quand ils vont aux urgences parce qu’il n’y a rien d’autre pour se faire soigner, c’est inacceptable ! Nous lutterons contre les déserts médicaux. https://t.co/dz2v3eb501
+- RT @ZemmourEric On ne peut pas rester insensible à la douleur des réfugiés. Les Ukrainiens veulent aller en Pologne, rester à proximité de leurs proches qui se battent et pouvoir rentrer en Ukraine. Il faut les aider. #DemandezLeProgramme
+- RT @ZemmourEric Pour aider les Ukrainiens qui fuient la guerre, la priorité doit être d’aider financièrement et logistiquement les pays européens frontaliers, en particulier la Pologne, à accueillir les femmes, enfants et personnes âgées. #RTLPresidentielle #LaVoixDeLaFrance
+- RT @UPR_Asselineau ⚠️LES AFFAIRES DU FILS BIDEN EN UKRAINE SE PRÉCISENT Le gvt russe a tenu une conférence de presse pour révéler que Hunter Biden [fils du président🇺🇸] a contribué au financement d'un programme de recherche militaire🇺🇸 sur les «ARMES BIOLOGIQUES» en Ukraine. https://t.co/6uKCwcVGSg
+- RT @UPR_Asselineau 🇺🇦🇪🇺 Êtes-vous POUR ou CONTRE l'entrée de l'Ukraine dans l'Union européenne ?
+- RT @JLMelenchon 🔴 De la guerre en #Ukraine au meeting pour la paix - Le 13e épisode de notre série-docu est en ligne. ➡️ https://t.co/zsc0BqS32l Bon visionnage ! https://t.co/EaWoNW5zim
+- RT @UPR_Asselineau 🕊4 CONDITIONS Le Kremlin annonce qu'il cessera aussitôt la guerre si l'Ukraine 1️⃣est démilitarisée 2️⃣inscrit la neutralité dans sa Constitution 3️⃣reconnaît le rattachement de la Crimée à la Russie 4️⃣et l'indépendance des Républiques de Donetsk et Louhansk https://t.co/P1hYB3uoKD
+- RT @JLMelenchon Hier sur France 2 j'ai suggéré le passage au statut de neutralité de l'#Ukraine. Aujourd’hui, le Président ukrainien le propose. Une sortie du conflit par le haut existe donc.
+- RT @JLMelenchon Je n'ai jamais soutenu monsieur Vladimir Poutine. Jamais. Je vous mets au défi de le prouver. Mais dès que quelqu'un s'oppose à un raisonnement, vous le traitez en agent de l'ennemi. Je ne soutiens jamais quelqu'un qui franchit une frontière. #SpecialeUkraineFrance2
+- RT @JLMelenchon Les câbles sous-marins seront un enjeu de la guerre d'#Ukraine. 90% d’internet concerné. J’avais prévenu. Qu'en pensaient les donneurs de leçons ? Ils regardaient ailleurs comme d'habitude. https://t.co/Ulo7OAxPqe 2018 : https://t.co/qNfke2ZHFJ 2019 : https://t.co/rN8pzKXkAT
+- RT @JLMelenchon Je propose de pavoiser aux couleurs de l'#Ukraine tous les bâtiments officiels en solidarité avec le peuple ukrainien.
+- RT @ZemmourEric Hier, la Russie a attaqué l’Ukraine. Hier, la Russie est venue porter la guerre en Europe. J’aimerais que nous pensions aux victimes et à nos compatriotes qui sont encore sur place. #ZemmourChambéry https://t.co/x3AYetff6b",None of the posts in the coordinated campaign use an Enhance tactic to encourage the topic-group to continue with the topic of Ukraine.,"The following post uses the Distort tactic: 
+
+RT @UPR_Asselineau 🇺🇦🇪🇺 Êtes-vous POUR ou CONTRE l'entrée de l'Ukraine dans l'Union européenne ?
+
+This post distorts the main message of the topic by focusing on a different aspect (Ukraine's entry into the European Union) rather than discussing the current conflict in Ukraine.","The following post uses a Dismay tactic: 
+- RT @dupontaignan ""Ce n'est pas faire preuve de faiblesse que de dire stop: on arrête les livraisons d'armes, on réclame la neutralité de l'Ukraine et le retrait des troupes russes. Je trouve fou que par le jeu des alliances, comme en 14-18, on monte dans l'escalade vers un conflit meurtrier.""#LCI
+
+This tweet elicits negative emotions by expressing concern about the escalation of conflict and the potential for a deadly outcome, highlighting the importance of stopping the supply of weapons and advocating for peace and neutrality.","The following posts use a Distract tactic by shifting the focus away from the topic of Ukraine to other unrelated topics:
+
+1. RT @JLMelenchon: 1h of car to bring a child into the world, it's unbearable! Make people pay €18 when they go to the emergency room because there is nothing else to get treatment, it's unacceptable! We will fight against medical deserts. https://t.co/dz2v3eb501
+
+2. RT @ZemmourEric: We cannot remain insensitive to the pain of the refugees. The Ukrainians want to go to Poland, stay close to their loved ones who are fighting and be able to return to Ukraine. We must help them. #DemandezLeProgramme
+
+3. RT @ZemmourEric: To help the Ukrainians fleeing the war, the priority must be to financially and logistically help European border countries, especially Poland, to welcome women, children, and elderly people. #RTLPresidentielle #LaVoixDeLaFrance
+
+4. RT @JLMelenchon: From the war in #Ukraine to the peace meeting - The 13th episode of our docu-series is online. ➡️ https://t.co/zsc0BqS32l Enjoy the show! https://t.co/EaWoNW5zim
+
+These tweets distract from the topic of Ukraine by discussing issues such as medical access, refugee assistance, and a documentary series, which are unrelated to the conflict in Ukraine and the calls for peace or neutrality in the region. This tactic can be used to divert attention from important issues or to push for alternative narratives.",26933,"['RT @UPR_Asselineau 🇺🇸🇻🇦SAINT MACKINSEY PRIEZ POUR NOUS! ▪️13/03/13 Le cardinal Bergoglio est élu pape François ▪️19/12/13 Il choisit MacKinsey pour «moderniser la communication et la comptabilité» du Vatican ▪️4/04/22 Il compte aller à Kiev pour soutenir les 2 mafieux notoires Zelensky et Klitschko https://t.co/NNq6iDX4lL', ""RT @JLMelenchon 🔴 Guerre de la #Russie en #Ukraine, sanctions économiques : retrouvez mon interview exclusive dans @leJDD, aujourd'hui dans les kiosques et chez votre marchand de journaux. https://t.co/xySMnUKiAB"", 'RT @UPR_Asselineau [5 - Fin] Je renouvelle mes demandes solennelles. Macron et les 11 autres ""candidats officiels"" à la présidentielle doivent exiger que -🇪🇺cesse toute livraison d\'armes à 🇺🇦 -Zelensky accepte les 4 conditions de Poutine qui ne sont pas déraisonnables LA PAIX MONDIALE EST EN JEU !', 'RT @yjadot Merci @rglucks1 ! Tous les humanistes doivent se mobiliser et manifester leur soutien à l’Ukraine. Pour l’Europe.', 'RT @dupontaignan ""Ce n\'est pas faire preuve de faiblesse que de dire stop: on arrête les livraisons d\'armes, on réclame la neutralité de l\'Ukraine et le retrait des troupes russes. Je trouve fou que par le jeu des alliances, comme en 14-18, on monte dans l\'escalade vers un conflit meurtrier.""#LCI', ""RT @UPR_Asselineau 🚨Des «instructeurs» étrangers de l'OTAN figureraient parmi les 35 morts et 134 blessés (bilan provisoire). ⚠️Avec cette frappe,Poutine et l'état-major des forces armées russes révèlent au monde entier qu'ils n'ont pas la berlue: l'OTAN est dejà bel et bien implantée en Ukraine!"", 'RT @ZemmourEric Je condamne sans réserve l’intervention militaire russe en Ukraine. https://t.co/SbTsF98feN', 'RT @ZemmourEric Les frontières de l’Ukraine doivent être reconnues par la Russie et l’OTAN doit s’engager à ce que l’Ukraine ne devienne jamais un de ses membres. #LeGrandRDV https://t.co/3xI2ZYwp6K', 'RT @JLMelenchon 1h de voiture pour mettre un enfant au monde, c’est insupportable ! Faire payer les gens 18€ quand ils vont aux urgences parce qu’il n’y a rien d’autre pour se faire soigner, c’est inacceptable ! Nous lutterons contre les déserts médicaux. https://t.co/dz2v3eb501', 'RT @ZemmourEric On ne peut pas rester insensible à la douleur des réfugiés. Les Ukrainiens veulent aller en Pologne, rester à proximité de leurs proches qui se battent et pouvoir rentrer en Ukraine. Il faut les aider. #DemandezLeProgramme', 'RT @ZemmourEric Pour aider les Ukrainiens qui fuient la guerre, la priorité doit être d’aider financièrement et logistiquement les pays européens frontaliers, en particulier la Pologne, à accueillir les femmes, enfants et personnes âgées. #RTLPresidentielle #LaVoixDeLaFrance', ""RT @UPR_Asselineau ⚠️LES AFFAIRES DU FILS BIDEN EN UKRAINE SE PRÉCISENT Le gvt russe a tenu une conférence de presse pour révéler que Hunter Biden [fils du président🇺🇸] a contribué au financement d'un programme de recherche militaire🇺🇸 sur les «ARMES BIOLOGIQUES» en Ukraine. https://t.co/6uKCwcVGSg"", ""RT @UPR_Asselineau 🇺🇦🇪🇺 Êtes-vous POUR ou CONTRE l'entrée de l'Ukraine dans l'Union européenne ?"", 'RT @JLMelenchon 🔴 De la guerre en #Ukraine au meeting pour la paix - Le 13e épisode de notre série-docu est en ligne. ➡️ https://t.co/zsc0BqS32l Bon visionnage ! https://t.co/EaWoNW5zim', ""RT @UPR_Asselineau 🕊4 CONDITIONS Le Kremlin annonce qu'il cessera aussitôt la guerre si l'Ukraine 1️⃣est démilitarisée 2️⃣inscrit la neutralité dans sa Constitution 3️⃣reconnaît le rattachement de la Crimée à la Russie 4️⃣et l'indépendance des Républiques de Donetsk et Louhansk https://t.co/P1hYB3uoKD"", ""RT @JLMelenchon Hier sur France 2 j'ai suggéré le passage au statut de neutralité de l'#Ukraine. Aujourd’hui, le Président ukrainien le propose. Une sortie du conflit par le haut existe donc."", ""RT @JLMelenchon Je n'ai jamais soutenu monsieur Vladimir Poutine. Jamais. Je vous mets au défi de le prouver. Mais dès que quelqu'un s'oppose à un raisonnement, vous le traitez en agent de l'ennemi. Je ne soutiens jamais quelqu'un qui franchit une frontière. #SpecialeUkraineFrance2"", ""RT @JLMelenchon Les câbles sous-marins seront un enjeu de la guerre d'#Ukraine. 90% d’internet concerné. J’avais prévenu. Qu'en pensaient les donneurs de leçons ? Ils regardaient ailleurs comme d'habitude. https://t.co/Ulo7OAxPqe 2018 : https://t.co/qNfke2ZHFJ 2019 : https://t.co/rN8pzKXkAT"", ""RT @JLMelenchon Je propose de pavoiser aux couleurs de l'#Ukraine tous les bâtiments officiels en solidarité avec le peuple ukrainien."", 'RT @ZemmourEric Hier, la Russie a attaqué l’Ukraine. Hier, la Russie est venue porter la guerre en Europe. J’aimerais que nous pensions aux victimes et à nos compatriotes qui sont encore sur place. #ZemmourChambéry https://t.co/x3AYetff6b']","The main problem mentioned or alluded to in these posts is the ongoing war between Russia and Ukraine, as well as the implications and consequences of this conflict. Other related issues mentioned include the role of NATO, the European Union, and various political figures in the conflict, as well as the impact on refugees and the international community.","The cause of the problem mentioned in these tweets is the ongoing war and military conflict between Russia and Ukraine. This conflict has resulted in various consequences, such as sanctions, refugee crises, and international tensions. The involvement of NATO, the European Union, and political figures in the region has also exacerbated the situation. Additionally, issues related to arms sales, territorial disputes, and geopolitical alliances have contributed to the conflict between Russia and Ukraine.","The remedies or solutions to the problem discussed in these tweets are as follows:
+
+1. Calls for peace negotiations and diplomatic solutions to end the war between Russia and Ukraine.
+2. Demands for NATO to cease arms deliveries to Ukraine and for Ukrainian President Zelensky to accept Putin's conditions for peace, including demilitarization and recognizing Crimea's annexation.
+3. Proposals for Ukraine to adopt a neutral status to de-escalate tensions and end the conflict.
+4. Expressions of solidarity and support for Ukraine, including aiding refugees and providing financial and logistical assistance to neighboring European countries hosting Ukrainian refugees.
+5. Suggestions to display solidarity with Ukraine by flying the Ukrainian flag on official buildings.
+6. Condemnation of Russia's military intervention in Ukraine and calls for respecting Ukrainian borders.
+7. Highlighting the importance of addressing the conflict's impact on refugees, internet infrastructure, and international alliances.
+8. Acknowledgment of the humanitarian crisis and the need for international support and assistance for Ukraine.","Metaphors mentioned in the tweets related to the problem, cause, and remedy of the conflict in Ukraine include:
+
+1. ""Guerre de la Russie en Ukraine"" - JLMelenchon
+   Metaphor: War between Russia and Ukraine
+
+2. ""Les frontières de l’Ukraine doivent être reconnues par la Russie"" - ZemmourEric
+   Metaphor: Recognizing Ukrainian borders
+
+3. ""Passage au statut de neutralité de l'Ukraine"" - JLMelenchon
+   Metaphor: Ukraine adopting a neutral status
+
+4. ""Câbles sous-marins seront un enjeu de la guerre d'Ukraine"" - JLMelenchon
+   Metaphor: Undersea cables as a strategic part of the conflict in Ukraine
+
+5. ""Pavoiser aux couleurs de l'Ukraine tous les bâtiments officiels"" - JLMelenchon
+   Metaphor: Displaying solidarity with Ukraine through flying the Ukrainian flag on official buildings
+
+Overall, these metaphors reflect the various aspects of the conflict, causes, and proposed solutions related to the ongoing war between Russia and Ukraine.","Catchphrases related to the problem, cause, and remedy stated in the following posts include:
+- ""Guerre de la #Russie en #Ukraine""
+- ""ce n'est pas faire preuve de faiblesse que de dire stop""
+- ""la paix mondiale est en jeu""
+- ""merci @rglucks1 ! Tous les humanistes doivent se mobiliser et manifester leur soutien à l’Ukraine""
+- ""les frontières de l’Ukraine doivent être reconnues par la Russie""
+- ""on ne peut pas rester insensible à la douleur des réfugiés""
+- ""pour aider les ukrainiens qui fuient la guerre""
+- ""le kremlin annonce qu'il cessera aussitôt la guerre si l'Ukraine""
+- ""hier, la Russie a attaqué l'Ukraine""
+- ""je propose de pavoiser aux couleurs de l'#Ukraine tous les bâtiments officiels en solidarité avec le peuple ukrainien""","Slogans related to the problem, cause, and remedy stated in the tweets include:
+
+1. ""Priez pour nous! Saint MacKinsey aide la communication et la comptabilité du Vatican.""
+2. ""Guerre de la Russie en Ukraine, sanctions économiques.""
+3. ""La paix mondiale est en jeu!""
+4. ""Tous les humanistes doivent se mobiliser et manifester leur soutien à l'Ukraine.""
+5. ""Stop les livraisons d'armes, neutralité de l'Ukraine, retrait des troupes russes.""
+6. ""L'OTAN est déjà implantée en Ukraine!""
+7. ""Je condamne sans réserve l'intervention militaire russe en Ukraine.""
+8. ""Les frontières de l'Ukraine doivent être reconnues par la Russie.""
+9. ""On ne peut rester insensible à la douleur des réfugiés.""
+10. ""Aider les Ukrainiens qui fuient la guerre.""
+11. ""Soutien à l'Ukraine, entrée dans l'Union européenne?""
+12. ""De la guerre en Ukraine au meeting pour la paix.""
+13. ""Les conditions pour la cessation de la guerre selon le Kremlin.""
+14. ""Statut de neutralité de l'Ukraine pour une sortie du conflit.""
+15. ""Pavoiser aux couleurs de l'Ukraine en solidarité avec le peuple ukrainien.""
+16. ""La Russie a attaqué l'Ukraine, pensons aux victimes et compatriotes sur place.""","Text motifs related to the problem, cause, and remedy stated in the following tweets include:
+1. War between Russia and Ukraine
+2. Sanctions, economic consequences
+3. Involvement of political figures, NATO, European Union
+4. Aid to refugees, humanitarian crisis
+5. Calls for peace negotiations, diplomatic solutions
+6. Demands to end arms deliveries, accept peace conditions
+7. Support for Ukraine, solidarity
+8. Impact on refugees, internet infrastructure
+9. Recognition of Ukrainian borders
+10. Neutral status for Ukraine
+11. Financial and logistical assistance to neighboring countries
+12. Displaying solidarity with Ukraine
+13. Importance of international support and assistance
+14. Helping refugees, prioritizing aid to neighboring countries
+
+These motifs align with the problem, cause, and suggested remedies highlighted in the provided tweets regarding the situation in Ukraine.","Problem:
+- RT @JLMelenchon 🔴 Guerre de la #Russie en #Ukraine, sanctions économiques : retrouvez mon interview exclusive dans @leJDD
+- RT @UPR_Asselineau 🚨Des «instructeurs» étrangers de l'OTAN figureraient parmi les 35 morts et 134 blessés
+- RT @ZemmourEric Je condamne sans réserve l’intervention militaire russe en Ukraine
+
+Solution:
+- RT @yjadot Merci @rglucks1 ! Tous les humanistes doivent se mobiliser et manifester leur soutien à l’Ukraine
+- RT @dupontaignan ""Ce n'est pas faire preuve de faiblesse que de dire stop: on arrête les livraisons d'armes
+- RT @UPR_Asselineau [5 - Fin] Je renouvelle mes demandes solennelles. Macron et les 11 autres ""candidats officiels"" à la présidentielle doivent exiger que -🇪🇺cesse toute livraison d'armes à 🇺🇦 -Zelensky accepte les 4 conditions de Poutine qui ne sont pas déraisonnables
+
+Remedy:
+- RT @ZemmourEric On ne peut pas rester insensible à la douleur des réfugiés. Les Ukrainiens veulent aller en Pologne, rester à proximité de leurs proches qui se battent et pouvoir rentrer en Ukraine
+- RT @ZemmourEric Pour aider les Ukrainiens qui fuient la guerre, la priorité doit être d’aider financièrement et logistiquement les pays européens frontaliers, en particulier la Pologne, à accueillir les femmes, enfants et personnes âgées
+- RT @JLMelenchon Je propose de pavoiser aux couleurs de l'#Ukraine tous les bâtiments officiels en solidarité avec le peuple ukrainien",The posts by Jean-Luc Melenchon use a Dismiss tactic by emphasizing other topics such as the high cost of healthcare and the lack of medical care accessibility instead of focusing on the conflict in Ukraine. These topics are important but are not directly related to the current situation in Ukraine.
+Ukraine,Russia,Political goal: Influence international actors to take action against Russian aggression in Ukraine.,"The political goal of the information operation for the posts is to urge international leaders to take action against Russian aggression in Ukraine, including closing the sky over Ukraine, excluding Russia from the UN Security Council, and imposing sanctions such as banning Russia from SWIFT. #StopRussia #StopPutin.","Information operation: Influence campaign to rally support for Ukraine against Russian aggression, calls for NATO intervention and exclusion of Russia from the UN Security Council. Use of multiple accounts and hashtags to amplify messaging.",This information operation started in March.,"1. Stop Russian aggression against Ukraine
+2. Close the sky over Ukraine
+3. Excluding Russia from the UN Security Council
+4. Ban Russia from SWIFT
+5. Protect Ukrainian sky
+6. Send NATO to Ukraine
+7. Stop Putin
+8. Stand with Ukraine
+9. No-fly zone over Ukraine
+10. Genocide of the Ukrainian people.","1. Appeal to Emotions - These tweets evoke strong emotional responses by using hashtags such as #StopPutin and #StopRussia to appeal to the emotions of the readers, urging action to be taken without providing a logical argument.
+
+Example: ""@EmmanuelMacron Your people are braver than you are, Mr. @EmmanuelMacron Be courageous! U CAN DO MORE! #StandWithUkraine #StopRussia #StopPutin #IPU144 #CloseTheSkyoverUkraine""
+
+2. Appeal to Authority - Some tweets mention the names of political leaders like @EmmanuelMacron, @OlafScholz, @JoeBiden, and @BorisJohnson, appealing to their authority to take action without providing solid reasoning.
+
+Example: ""@EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦""
+
+3. Bandwagon - Some tweets use phrases like ""close the sky over Ukraine"" and ""exclude Russia from the UN Security Council"" repeatedly to create a bandwagon effect, urging others to join in without providing logical reasons for these actions.
+
+Example: ""@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia""
+
+4. Loaded Language - Some tweets use loaded language such as ""russian barbarians"" and ""genocide of the Ukrainian people"" to evoke strong emotional responses and create bias against Russia without providing a balanced perspective.
+
+Example: ""@EmmanuelMacron russian barbarians destroyed 211 schools, 34 hospitals, 1500+ residential buildings, killed thousands of civilians! 900+ settlements are completely deprived of light, water, heat. Close the sky over Ukraine! #NoFlyZone #NoFlyZoneOverUkraine #StopPutinNOW #StopRussia https://t.co/wxz5Bc9yRV""
+
+These examples illustrate how certain fallacies can exist in social media posts regarding the situation in Ukraine, where emotions, authority figures, bandwagon effects, and loaded language can influence the discourse.","- The use of hashtags such as #StopPutin, #StopRussia, #BanRussiafromSwift, #CloseTheSky, #SendNatoToUkraine, and #NoFlyZoneUA indicate a strong anti-Russian stance and a call for action to support Ukraine.
+- There is an emphasis on urging leaders such as Emmanuel Macron, Olaf Scholz, Joe Biden, and Boris Johnson to take specific actions against Russia, such as banning them from SWIFT, closing the sky over Ukraine, and sending NATO forces to Ukraine.
+- Reference to the UN Security Council and European leaders suggests a call for international support and coordination in addressing the situation in Ukraine.
+- The use of terms like ""russian barbarians"" and highlighting the destruction of schools, hospitals, and residential buildings in Ukraine further emphasizes the brutality of the Russian aggression.
+- The use of the Ukrainian flag 🇺🇦 and references to the bravery of the Ukrainian people suggest a show of solidarity with Ukraine against Russian aggression.
+- Overall, the language and cultural cues in these posts indicate a pro-Ukrainian, anti-Russian sentiment and a call for international intervention to support Ukraine against Russian aggression.","- stop Russian aggression against Ukraine
+- close the sky over Ukraine
+- exclude Russia from the UN Security Council
+- Ban Russia from SWIFT
+- protect Ukrainian sky
+- Send NATO to Ukraine
+- Stop Putin
+- Stop Russia
+- No Fly Zone
+- Stand with Ukraine
+- Ban Russia from Swift
+- Send NATO to Ukraine
+- No Fly Zone UA","The following post uses an Engage tactic:
+@EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
+
+This tweet brings up the related but relevant topics of banning Russia from SWIFT, closing the sky over Ukraine, and sending NATO to Ukraine in order to address the situation of Russian aggression against Ukraine.","The following posts use an Explain tactic by providing details and elaborating on the topic of the conflict in Ukraine:
+
+- ""@EmmanuelMacron russian barbarians destroyed 211 schools, 34 hospitals, 1500+ residential buildings, killed thousands of civilians! 900+ settlements are completely deprived of light, water, heat. Close the sky over Ukraine! #NoFlyZone #NoFlyZoneOverUkraine #StopPutinNOW #StopRussia""
+- ""@EmmanuelMacron https://t.co/hHLtWBejDl #StopPutin! Stop the genocide of the Ukrainian people! Close the sky over Ukraine! Remember that first you are a man created by God, and then you are a leader of something. Think about what is eternal and what is more important?""
+
+These posts provide specific examples of the destruction caused by Russian aggression in Ukraine and call for action to protect Ukrainian civilians. They elaborate on the situation and highlight the urgency of the crisis.","The following posts use an Excite tactic to elicit a positive emotion such as joy or excitement: 
+
+1. @EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
+
+This tweet includes emojis of the Ukrainian flag, which could be perceived as an attempt to evoke positive emotions and unity in support of Ukraine. 
+
+2. @EmmanuelMacron NOW!!! RUSSIA FIRES ON NUCLEAR POWER PLANT IN #UKRAINE!!! STREAM: https://t.co/8ohGtVs6Eo WAKE UP, WORLD! #StopPutin #StopRussia CLOSE THE SKY OVER UKRAINE!!!
+
+This tweet uses capital letters and exclamation marks to convey a sense of urgency and excitement in calling for action to stop Russian aggression against Ukraine.","The posts that use an Enhance tactic to encourage the topic of Ukraine to continue are as follows:
+1. @EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia
+2. @EmmanuelMacron Ban Russia from SWIFT! Protect Ukrainian Sky! Send NATO to Ukraine! #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine
+3. @EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia","The tweet that uses a Distort tactic is:
+
+@EmmanuelMacron Fermez le ciel au-dessus de l'Ukraine! @EmmanuelMacron @JeanCASTEX @RichardFerrand @gerard_larcher @UKRinFRA @FranceenUkraine #StopRussia #StopPutin
+
+This tweet is redirecting the message to focus on closing the sky over Ukraine without mentioning stopping Russian aggression, excluding Russia from the UN Security Council, or calling for NATO involvement. It distorts the main message of addressing Russian aggression in Ukraine.","The following posts use a Dismay tactic to elicit negative emotions:
+
+- @EmmanuelMacron NOW!!! RUSSIA FIRES ON NUCLEAR POWER PLANT IN #UKRAINE!!! STREAM: https://t.co/ZgyXWaRncc… WAKE UP, WORLD! #StopPutin #StopRussia CLOSE THE SKY OVER UKRAINE!!!
+- @EmmanuelMacron russian barbarians destroyed 211 schools, 34 hospitals, 1500+ residential buildings, killed thousands of civilians! 900+ settlements are completely deprived of light, water, heat. Close the sky over Ukraine! #NoFlyZone #NoFlyZoneOverUkraine #StopPutinNOW #StopRussia https://t.co/wxz5Bc9yRV
+- @EmmanuelMacron https://t.co/hHLtWBejDl #StopPutin! Stop the genocide of the Ukrainian people! Close the sky over Ukraine! Remember that first you are a man created by God, and then you are a leader of something. Think about what is eternal and what is more important?
+- @EmmanuelMacron Your people are braver than you are, Mr. @EmmanuelMacron Be courageous! U CAN DO MORE! #StandWithUkriane #StopRussia #StopPutin #IPU144 #ClosetheSkyoverUkraine","The following posts use a distract tactic by discussing a completely irrelevant topic:
+
+1. @EmmanuelMacron Fermez le ciel au-dessus de l'Ukraine! @EmmanuelMacron @JeanCASTEX @RichardFerrand @gerard_larcher @UKRinFRA @FranceenUkraine #StopRussia #StopPutin
+2. @EmmanuelMacron CLOSE THE SKY OVER UKRAINE! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @POTUS @OlafScholz @BorisJohnson
+
+These tweets are distract tactics because they discuss closing the sky over Ukraine, which is not a relevant or effective response to Russian aggression against Ukraine. The focus of the campaign should be on addressing the root cause of the conflict and advocating for political and diplomatic solutions, rather than diverting attention to an unrelated topic like closing the sky over Ukraine.",1616,"['@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia .', '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia', '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia', ""@EmmanuelMacron Fermez le ciel au-dessus de l'Ukraine! @EmmanuelMacron @JeanCASTEX @RichardFerrand @gerard_larcher @UKRinFRA @FranceenUkraine #StopRussia #StopPutin"", '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia', '@EmmanuelMacron CLOSE THE SKY OVER UKRAINE! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @POTUS @OlafScholz @BorisJohnson', 'Ban Russia from SWIFT! Protect Ukrainian Sky! Send NATO to Ukraine! #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine', '@EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦', '@EmmanuelMacron NOW!!! RUSSIA FIRES ON NUCLEAR POWER PLANT IN #UKRAINE!!! STREAM: https://t.co/ZgyXWaRncc… WAKE UP, WORLD! #StopPutin #StopRussia CLOSE THE SKY OVER UKRAINE!!!', '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia', '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia 5', '@EmmanuelMacron russian barbarians destroyed 211 schools, 34 hospitals, 1500+ residential buildings, killed thousands of civilians! 900+ settlements are completely deprived of light, water, heat. Close the sky over Ukraine! #NoFlyZone #NoFlyZoneOverUkraine #StopPutinNOW #StopRussia https://t.co/wxz5Bc9yRV', '@EmmanuelMacron https://t.co/hHLtWBejDl #StopPutin! Stop the genocide of the Ukrainian people! Close the sky over Ukraine! Remember that first you are a man created by God, and then you are a leader of something. Think about what is eternal and what is more important?', '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia', '@EmmanuelMacron NOW!!! RUSSIA FIRES ON NUCLEAR POWER PLANT IN #UKRAINE!!! STREAM: https://t.co/8ohGtVs6Eo WAKE UP, WORLD! #StopPutin #StopRussia CLOSE THE SKY OVER UKRAINE!!!', '@EmmanuelMacron Your people are braver than you are, Mr. @EmmanuelMacron Be courageous! U CAN DO MORE! #StandWithUkriane #StopRussia #StopPutin #IPU144 #ClosetheSkyoverUkraine', '@EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE. @NATO CLOSE THE SKY OVER UKRAINE! EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL! #StopPutin #StopRussia', '@EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine', '@EmmanuelMacron Ban Russia from SWIFT! Protect Ukrainian Sky! Send NATO to Ukraine! #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine', '@EmmanuelMacron Where is your help, #Europe & @NATO? Close the sky over #Ukraine! Exclude russia from the @UN Security Council! @POTUS @eucopresident @vonderleyen @Europarl_EN #StopPutin #StopRussia #NoFlyZoneUA']","The main problem being mentioned explicitly or alluded to in these posts is Russian aggression against Ukraine, calling for NATO to close the sky over Ukraine, and urging for Russia to be excluded from the UN Security Council. The posts also mention the destruction of schools, hospitals, residential buildings, and the killing of civilians in Ukraine. Additionally, there are calls to ban Russia from SWIFT, protect the Ukrainian sky, and send NATO to Ukraine. The urgency of the situation is emphasized, with references to a nuclear power plant being fired on in Ukraine and pleas for world leaders to take action.","The cause of the problem that these posts are explicitly or alluding to is Russian aggression against Ukraine. The destruction of schools, hospitals, residential buildings, and the killing of civilians in Ukraine are also mentioned, highlighting the severity of the situation and the need for urgent international intervention. There are calls for NATO to close the sky over Ukraine, for Russia to be excluded from the UN Security Council, and for actions such as banning Russia from SWIFT, protecting the Ukrainian sky, and sending NATO forces to Ukraine to address the ongoing crisis. The firing on a nuclear power plant in Ukraine is also cited as a particularly alarming development, underscoring the need for immediate action from world leaders.","The remedy for the problem mentioned in these tweets is as follows:
+1. Stop Russian aggression against Ukraine.
+2. Close the sky over Ukraine.
+3. Exclude Russia from the UN Security Council.
+4. Ban Russia from SWIFT.
+5. Protect the Ukrainian sky.
+6. Send NATO forces to Ukraine.
+7. Address the destruction of schools, hospitals, residential buildings, and the killing of civilians in Ukraine.
+8. Take urgent action to prevent further escalation of the conflict, including firing on a nuclear power plant in Ukraine.
+9. World leaders, including Emmanuel Macron, Olaf Scholz, Joe Biden, and Boris Johnson, are called upon to take decisive action to stop Russian aggression and protect Ukraine.","1. ""Close the sky over Ukraine!"" - Metaphorically calling for NATO to implement a no-fly zone over Ukraine to protect the country from Russian aggression.
+2. ""Fires on nuclear power plant in Ukraine"" - Metaphorically highlighting the dangerous escalation of the conflict and the urgent need for intervention to prevent further disastrous consequences.
+3. ""Ban Russia from SWIFT"" - Metaphorically suggesting cutting off Russia's access to financial systems as a means of exerting pressure and punishing their aggressive actions.
+4. ""Protect Ukrainian sky"" - Metaphorically advocating for the defense and sovereignty of Ukraine against foreign attacks.
+5. ""Send NATO to Ukraine"" - Metaphorically urging for military support and intervention from NATO to assist Ukraine in repelling Russian aggression.","Catchphrases related to the problem, cause, and remedy stated in the tweets include:
+
+1. STOP RUSSIAN AGGRESSION AGAINST #UKRAINE
+2. CLOSE THE SKY OVER UKRAINE
+3. EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL
+4. #StopPutin
+5. #StopRussia
+6. Ban Russia from SWIFT
+7. Protect Ukrainian Sky
+8. Send NATO to Ukraine
+9. NO FLY ZONE
+10. Stop the genocide of the Ukrainian people
+11. Stand With Ukraine
+12. Close the Sky over Ukraine
+13. Where is your help, Europe & @NATO?
+
+These catchphrases highlight the urgent need for international action to address the ongoing crisis in Ukraine and stop Russian aggression.","Slogans related to the problem, cause, and remedy for the situation in Ukraine mentioned in the tweets include:
+
+1. STOP RUSSIAN AGGRESSION AGAINST #UKRAINE.
+2. CLOSE THE SKY OVER UKRAINE!
+3. EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL!
+4. #StopPutin #StopRussia
+5. Ban Russia from SWIFT!
+6. Protect Ukrainian Sky!
+7. Send NATO to Ukraine!
+8. #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine
+9. NOW!!! RUSSIA FIRES ON NUCLEAR POWER PLANT IN #UKRAINE!!!
+10. STOP THE GENOCIDE OF THE UKRAINIAN PEOPLE!
+11. StandWithUkriane
+12. IPU144
+13. Where is your help, #Europe & @NATO? Close the sky over #Ukraine!
+14. NoFlyZoneUA
+
+These slogans reflect the urgency and severity of the situation in Ukraine, calling for immediate action to address Russian aggression and protect the Ukrainian people.","Text motifs explicitly mentioned related to the problem, cause, and remedy stated in the following posts are:
+
+Problem:
+1. Russian aggression against Ukraine
+2. Destruction of schools, hospitals, residential buildings, and killing of civilians in Ukraine
+3. Urgent need for NATO to close the sky over Ukraine
+4. Calls to exclude Russia from the UN Security Council
+
+Cause:
+1. Russian aggression against Ukraine
+2. Firing on a nuclear power plant in Ukraine
+
+Remedy:
+1. Stop Russian aggression against Ukraine
+2. Close the sky over Ukraine
+3. Ban Russia from SWIFT
+4. Send NATO forces to Ukraine
+5. Protect the Ukrainian sky
+6. Exclude Russia from the UN Security Council","Problem:
+1. @EmmanuelMacron STOP RUSSIAN AGGRESSION AGAINST #UKRAINE.
+2. @EmmanuelMacron NOW!!! RUSSIA FIRES ON NUCLEAR POWER PLANT IN #UKRAINE!!!
+3. @EmmanuelMacron russian barbarians destroyed 211 schools, 34 hospitals, 1500+ residential buildings, killed thousands of civilians!
+4. Where is your help, #Europe & @NATO? Close the sky over #Ukraine!
+
+Solution:
+1. @NATO CLOSE THE SKY OVER UKRAINE!
+2. @NATO CLOSE THE SKY OVER UKRAINE!
+3. CLOSE THE SKY OVER UKRAINE!
+4. CLOSE THE SKY OVER UKRAINE!
+
+Remedy:
+1. EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL!
+2. EXCLUDE RUSSIA FROM THE @UN SECURITY COUNCIL!
+3. Ban Russia from SWIFT! Protect Ukrainian Sky! Send NATO to Ukraine!
+4. Exclude russia from the @UN Security Council!","The posts using a Dismiss tactic include:
+
+- @EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
+- @EmmanuelMacron Dear @OlafScholz @EmmanuelMacron @JoeBiden @BorisJohnson Please #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine
+- @EmmanuelMacron Ban Russia from SWIFT! Protect Ukrainian Sky! Send NATO to Ukraine! #BanRussiafromSwift #CloseTheSky #SendNatoToUkraine
+
+In these posts, the emphasis is on specific actions related to Russia's aggression against Ukraine, calling for banning Russia from SWIFT, closing the sky over Ukraine, and sending NATO forces to Ukraine. This tactic may dismiss the importance of other aspects of the conflict or broader diplomatic considerations by oversimplifying the situation into a call for immediate action."
+Ukraine,Russia,Political goal: Advocating for the establishment of a no-fly zone over Ukraine to protect civilians from Russian attacks.,The political goal of the information operation is to pressure international leaders to close the sky over Ukraine and establish a no-fly zone.,"Description: Coordinated disinformation campaign advocating for the closure of the sky over Ukraine to create a no-fly zone. Targeting international leaders and calling for action to stop Russian aggression.
+- Hashtags: #StopRussia #StopPutin #ClosetheSkyoverUkraine
+- Targets: @EmmanuelMacron, @vonderleyen, @eucopresident, @EP_Edinburgh, @EU_Commission, @Europarl_EN, @UN, @NATO, @OlafScholz, @BorisJohnson, @AndrzejDuda, @POTUS, @NATO
+- Themes: Humanitarian crisis, Russian invasion, child victims, atrocities in Ukraine, genocide allegations, Chornobyl comparison",The starting month of the information operation for the posts is February.,"The major themes from the given posts are:
+1. Urging international leaders to close the sky over Ukraine to stop Russian aggression and protect innocent civilians, especially children.
+2. Calling for immediate action to prevent further atrocities and humanitarian crisis in Ukraine.
+3. Condemning the violence and calling for an end to the genocide of the Ukrainian people.
+4. Highlighting the need for a no-fly zone over Ukraine to prevent further attacks and protect the population.
+5. Holding silence on the ongoing crisis accountable for the bloodshed and tragedy in Ukraine.","1. Appeal to Emotions:
+- The fallacy exists in the posts that emotionally manipulate the reader by invoking images of children and innocent people being harmed, urging international leaders to ""Close the sky"" over Ukraine to stop the violence. Instead of presenting a logical argument, these posts rely on stirring up emotions to make their point.
+Example: ""@EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky!""
+
+2. Appeal to Force:
+- This fallacy is present in the posts that pressure international leaders to take immediate action by ""closing the sky over Ukraine"" to prevent further harm. It attempts to coerce a specific response by using forceful language.
+Example: ""@EmmanuelMacron #StopRussia #StopPutin CLOSE THE SKY OVER #UKRAINE! CHILDREN OF THE WHOLE #EUROPE WILL BE NEXT! STOP PUTIN NOW!""
+
+3. Appeal to Vanity:
+- The fallacy can be identified in the posts that appeal to leaders' sense of humanity, power, and future, urging them to take action to prevent further atrocities in Ukraine. It plays on the vanity of leaders to make them feel responsible for the situation and compel them to act.
+Example: ""@EmmanuelMacron Save your future, #Europe. Close the sky over #Ukraine!""
+
+4. Appeal to Tradition Wisdom:
+- This fallacy can be seen in the posts that call for closing the sky over Ukraine based on the belief that it is a traditional or wise course of action in times of crisis. It assumes that following established practices will lead to a positive outcome.
+Example: ""@EmmanuelMacron Close the sky over Ukraine! We are all facing a major catastrophe! #StopPutin #StopRussia""
+
+5. Argument from Outrage:
+- The fallacy is evident in the posts that use strong language and shocking imagery to elicit a sense of outrage and urgency in addressing the situation in Ukraine. It focuses on inciting strong emotions rather than presenting a rational argument.
+Example: ""@EmmanuelMacron We will never forgive. The blood of our children is on the hands of everyone who is silent. #StopPutin! Stop the genocide of the Ukrainian people! Close the sky over Ukraine! #EU @NATO #StopRussia""
+
+These fallacies exist in the posts because they rely on emotional manipulation, coercion, exploiting vanity, appealing to tradition, and inciting outrage to push for a specific course of action.","1. Hashtags such as #ClosetheSkyoverUkraine, #StopRussia, #StopPutin, #NoFlyZoneUA, and mentions of international leaders such as @EmmanuelMacron, @vonderleyen, @eucopresident, @EU_Commission, @Europarl_EN, @UN, @NATO suggest that the culture or in-group implied by these posts is those who support Ukraine and are calling for international intervention to stop Russian aggression and violence in Ukraine. The use of hashtags and mentions of specific leaders and organizations indicate a sense of unity and urgency among this group to protect the people of Ukraine and prevent further attacks.
+2. The use of phrases like ""STOP PUTIN NOW"" and references to specific leaders, such as @OlafScholz, @BorisJohnson, @AndrzejDuda, @POTUS, @NATO, and @EU, further emphasize the call for immediate action and support from the international community. The repeated calls to ""Close the sky over Ukraine"" and references to the bloodshed and atrocities occurring in Ukraine highlight the sense of outrage and desperation felt by this group.
+3. The use of French language in ""Fermez le ciel au-dessus de l'Ukraine!"" further indicates a strong sense of advocacy and urgency from French-speaking individuals or those who support the French government taking action to protect Ukraine. The references to specific French leaders, such as @EmmanuelMacron, @JeanCASTEX, @RichardFerrand, @gerard_larcher, suggest a connection to French politics and efforts to rally support for Ukraine within France.","- Close the sky over Ukraine
+- Stop Russia
+- Stop Putin
+- NoFlyZoneUA
+- Stop the killings
+- Genocide of the Ukrainian people
+- Stop Russian terror
+- Under Russian terror
+- Close the sky right now
+- Russia wants to repeat #Chornobyl
+- Stop the genocide of the Ukrainian people
+- Never forgive
+- The blood of our children
+- Stop Russian terror
+- Stop the genocide
+- Close the sky above Ukraine
+- Stop Russian terror","There are multiple posts in this coordinated campaign that use an Engage tactic by bringing up a related but relevant topic. For example:
+
+- @EmmanuelMacron mentions the direct strike of Russian troops at a maternity hospital in Mariupol and then calls for the sky to be closed over Ukraine.
+- @EmmanuelMacron warns that Russia wants to repeat the disaster of Chernobyl in Ukraine, and then urges for the sky to be closed over Ukraine to prevent a catastrophe.
+
+These posts engage with related issues such as the humanitarian impact of the conflict in Ukraine and the potential for environmental disaster, linking them to the call to close the sky over Ukraine.","The following post uses an Explain tactic:
+@EmmanuelMacron А missile strike on Vinnytsia consisted of eight missiles; the airport is completely destroyed. The President called on the world to close the skies over #Ukraine and provide Ukraine with aircraft. CLOSE THE SKY OVER UKRAINE!
+
+This post provides specific details about a missile strike in Vinnytsia and explains the President's call to close the skies over Ukraine and provide aircraft. It elaborates on the situation and provides context for the call to action.","The following posts use an Excite tactic to elicit a positive emotion:
+
+1. ""Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson #NoFlyZoneUA""
+
+2. ""Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda #NoFlyZoneUA""
+
+These tweets use the Excite tactic by calling for action to protect children and elicit a positive emotional response from the audience.","The posts that use an Enhance tactic to encourage the topic-group to continue with the topic are:
+
+1. @EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda #NoFlyZoneUA
+2. @EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda #NoFlyZoneUA
+
+These posts are urging international leaders to take action and close the sky over Ukraine to prevent further violence and protect innocent civilians.","The main message of the coordinated campaign is to call for international leaders to close the sky over Ukraine to stop the violence and protect innocent civilians, especially children. 
+
+The Distort tactic is used in the posts that bring up unrelated topics, such as referencing the Chernobyl disaster or accusing Russia of wanting to repeat it, as well as implying that European children will be next. These posts attempt to manipulate the narrative by introducing fear and unrelated information, diverting attention from the main message of calling for action to protect civilians in Ukraine.","The following posts use a Dismay tactic:
+
+1. @EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson #NoFlyZoneUA
+2. @EmmanuelMacron #Mariupol. Direct strike of Russian troops at the maternity hospital. People, children are under the wreckage. Atrocity! How much longer will the world be an accomplice ignoring terror? Close the sky right now! Stop the killings! You have power but you seem to be losing humanity. https://t.co/vaYY825aM6
+3. @EmmanuelMacron The russian invaders fired on the family during the evacuation in Irpin Everyone died: a mother, a father, and two children. This is the genocide of the Ukrainian people. Close the sky over #Ukraine! The blood of innocent people on your hands too.
+4. @EmmanuelMacron Russia wants to repeat #Chornobyl and is acting on it now. But 6 times more. PLEASE CLOSE THE SKY OVER UKRAINE!","Post 15 uses a distract tactic by discussing the topic of closing the sky over Ukraine and asking international leaders to listen to the children, but then goes on to mention unrelated leaders and organizations such as Olaf Scholz, Boris Johnson, and Andrzej Duda. This distracts from the main message of closing the sky over Ukraine and instead focuses on irrelevant leaders.
+
+Post 18 also uses a distract tactic by mentioning the leadership of the Verkhovna Rada of Ukraine and MPs asking colleagues from other countries to close the sky over Ukraine and stop Russian terror. However, the post then goes on to mention unrelated leaders such as Ursula von der Leyen, the president of the European Commission, and others. This shifts the focus away from the main message and distracts from the issue at hand.",10,"['@EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson #NoFlyZoneUA https://t.co/mXEyRiHSIs', '@EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda #NoFlyZoneUA', '@EmmanuelMacron #Mariupol. Direct strike of Russian troops at the maternity hospital. People, children are under the wreckage. Atrocity! How much longer will the world be an accomplice ignoring terror? Close the sky right now! Stop the killings! You have power but you seem to be losing humanity. https://t.co/vaYY825aM6', '@EmmanuelMacron #StopRussia #StopPutin CLOSE THE SKY OVER #UKRAINE! CHILDREN OF THE WHOLE #EUROPE WILL BE NEXT! STOP PUTIN NOW! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda', '@EmmanuelMacron А missile strike on Vinnytsia consisted of eight missiles; the airport is completely destroyed. The President called on the world to close the skies over #Ukraine and provide Ukraine with aircraft. CLOSE THE SKY OVER UKRAINE!', '@EmmanuelMacron The russian invaders fired on the family during the evacuation in Irpin Everyone died: a mother, a father, and two children. This is the genocide of the Ukrainian people. Close the sky over #Ukraine! The blood of innocent people on your hands too.', '@EmmanuelMacron Russia wants to repeat #Chornobyl and is acting on it now. But 6 times more. PLEASE CLOSE THE SKY OVER UKRAINE!', '@EmmanuelMacron @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @POTUS @OlafScholz @BorisJohnson CLOSE THE SKY OVER UKRAINE!', '@EmmanuelMacron Save your future, #Europe. Close the sky over #Ukraine! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda', '@EmmanuelMacron Europe, close the sky over Ukraine! We are all facing a major catastrophe! #StopPutin #StopRussia', '@EmmanuelMacron ⚡️The leadership of the Verkhovna Rada of #Ukraine and MPs ask colleagues from other countries to close the sky above Ukraine and stop Russian terror. #StopPutin #StopRussia #ClosetheSkyoverUkraine #NoFlyZoneOverUkraine https://t.co/bsYwTbja3F', '@EmmanuelMacron ⚡️The leadership of the Verkhovna Rada of #Ukraine and MPs ask colleagues from other countries to close the sky above Ukraine and stop Russian terror. #StopPutin #StopRussia #ClosetheSkyoverUkraine #NoFlyZoneOverUkraine https://t.co/bsYwTb1yF5', '@EmmanuelMacron We will never forgive. The blood of our children is on the hands of everyone who is silent. #StopPutin! Stop the genocide of the Ukrainian people! Close the sky over Ukraine! #EU @NATO #StopRussia #StopPutin #ClosetheSkyoverUkraine', ""@EmmanuelMacron Fermez le ciel au-dessus de l'Ukraine! #StopRussia #StopPutin"", '@EmmanuelMacron #StopRussia #StopPutin CLOSE THE SKY OVER #UKRAINE! CHILDREN OF THE WHOLE #EUROPE WILL BE NEXT! STOP PUTIN NOW! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda', '@EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda #NoFlyZoneUA', '@EmmanuelMacron #StopRussia #StopPutin CLOSE THE SKY OVER #UKRAINE! CHILDREN OF THE WHOLE #EUROPE WILL BE NEXT! UNDERSTAND THIS ALREADY! STOP PUTIN NOW! @EmmanuelMacron @vonderleyen @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson @AndrzejDuda', '@EmmanuelMacron ⚡️The leadership of the Verkhovna Rada of #Ukraine and MPs ask colleagues from other countries to close the sky above Ukraine and stop Russian terror. #StopPutin #StopRussia #ClosetheSkyoverUkraine #NoFlyZoneOverUkraine https://t.co/bsYwTbja3F', ""@EmmanuelMacron Fermez le ciel au-dessus de l'Ukraine! @EmmanuelMacron @JeanCASTEX @RichardFerrand @gerard_larcher @UKRinFRA @FranceenUkraine #StopRussia #StopPutin https://t.co/a41KxN7OhW"", '@EmmanuelMacron Direct strike of Russian troops at the maternity hospital in Mariupol. People, children are under the wreckage. #StopRussia #StopPutin CLOSE THE SKY OVER #UKRAINE! CHILDREN OF THE WHOLE #EUROPE WILL BE NEXT! STOP PUTIN NOW! https://t.co/4EI970vafZ']","The main problem that these posts are mentioning explicitly or alluding to is the need for international leaders, specifically European leaders like Emmanuel Macron, to close the sky over Ukraine in order to stop Russian attacks and protect innocent civilians, especially children. The posts highlight the urgency of the situation and the devastating impact of the ongoing conflict in Ukraine.","The cause of the problem mentioned in these tweets is the ongoing Russian attacks and invasion of Ukraine, leading to the devastation of cities, the targeting of civilians, including children, and the urgent need for international leaders to take action to protect innocent lives. The posts specifically call for the closure of the sky over Ukraine to stop Russian attacks and provide safety for the people of Ukraine. The actions of Russian forces under Putin's leadership are highlighted as the main cause of the urgent situation and the need for immediate international intervention.","The remedy mentioned in these posts is for international leaders, specifically European leaders like Emmanuel Macron, to close the sky over Ukraine. This action is seen as crucial in stopping Russian attacks, protecting innocent civilians, and preventing further devastation, especially to children. The urgency of the situation is emphasized, and the closure of the sky over Ukraine is seen as a necessary and immediate measure to stop the ongoing conflict and ensure the safety and well-being of the people of Ukraine.","Metaphors related to the problem, cause, and remedy in the tweets include:
+
+Problem:
+- ""Children of #Ukraine ask - #ClosetheSkyoverUkraine!""
+- ""People, children are under the wreckage.""
+- ""How much longer will the world be an accomplice ignoring terror?""
+
+Cause:
+- ""The russian invaders fired on the family during the evacuation in Irpin Everyone died: a mother, a father, and two children.""
+- ""Russia wants to repeat #Chornobyl and is acting on it now.""
+
+Remedy:
+- ""CLOSE THE SKY OVER UKRAINE!""
+- ""STOP PUTIN NOW!""
+- ""CLOSE THE SKY RIGHT NOW!""","Catchphrases related to the problem, cause, and remedy stated in the following posts:
+
+1. Problem: ""Children of #Ukraine ask - #ClosetheSkyoverUkraine!""
+2. Cause: ""Direct strike of Russian troops at the maternity hospital.""
+3. Remedy: ""CLOSE THE SKY OVER UKRAINE!""
+4. Urgency: ""Stop the killings! You have power but you seem to be losing humanity.""
+5. Call for action: ""Save your future, #Europe. Close the sky over #Ukraine!""
+6. Emphasis on international leaders: ""@EmmanuelMacron @vonderleyen @eucopresident""
+7. Warning to Europe: ""CLOSE THE SKY OVER #UKRAINE! CHILDREN OF THE WHOLE #EUROPE WILL BE NEXT! STOP PUTIN NOW!""","Slogans related to the problem, cause, and remedy stated in the tweets include:
+
+1. Children of #Ukraine ask - #ClosetheSkyoverUkraine!
+2. Stop Russia! Stop Putin! Close the sky over Ukraine!
+3. Close the sky right now! Stop the killing!
+4. Save your future, Europe. Close the sky over Ukraine!
+5. We will never forgive. The blood of our children is on the hands of everyone who is silent.
+6. Fermez le ciel au-dessus de l'Ukraine! (French for ""Close the sky over Ukraine!"")
+7. Stop Russia! Stop Putin! Children of the whole Europe will be next!
+8. Close the sky above Ukraine and stop Russian terror.
+9. Direct strike of Russian troops at the maternity hospital in Mariupol. Close the sky over Ukraine!
+10. Close the sky above Ukraine and stop Russian terror.","Text motifs related to the problem, cause, and remedy stated in the posts include:
+
+1. ""#ClosetheSkyoverUkraine"" - Highlighting the urgent need for international leaders to close the sky over Ukraine to stop Russian attacks and protect innocent civilians, especially children.
+2. ""#NoFlyZoneUA"" - Calling for a no-fly zone over Ukraine to prevent further devastation and loss of innocent lives.
+3. ""STOP PUTIN NOW"" - Directly addressing Russian President Putin as the cause of the ongoing conflict and calling for immediate action to stop Russian aggression.
+4. ""Close the sky right now!"" - Emphasizing the urgent need for immediate intervention to protect the people of Ukraine and prevent further atrocities.
+5. ""Stop the killings!"" - Urging international leaders to take action to end the violence and bloodshed in Ukraine.
+6. ""Genocide of the Ukrainian people"" - Describing the devastating impact of the conflict and the urgent need to protect innocent lives.
+7. ""Close the sky over Ukraine"" - Repeated call to action for international leaders to close the sky over Ukraine to prevent further attacks and ensure the safety of civilians.
+8. ""Save your future, Europe"" - Highlighting the importance of European leaders taking action to protect Ukraine and prevent a larger catastrophe.
+9. ""StopRussian #StopPutin"" - Directly addressing Russian actions and President Putin as the main cause of the conflict and calling for their immediate cessation.
+10. ""Stop the genocide of the Ukrainian people"" - Emphasizing the need to stop the violence and protect the people of Ukraine from further harm.","Problem:
+1. @EmmanuelMacron #Mariupol. Direct strike of Russian troops at the maternity hospital. People, children are under the wreckage. Atrocity! How much longer will the world be an accomplice ignoring terror? Close the sky right now! Stop the killings! You have power but you seem to be losing humanity. https://t.co/vaYY825aM6
+
+2. @EmmanuelMacron Russia wants to repeat #Chornobyl and is acting on it now. But 6 times more. PLEASE CLOSE THE SKY OVER UKRAINE!
+
+Solution:
+1. @EmmanuelMacron А missile strike on Vinnytsia consisted of eight missiles; the airport is completely destroyed. The President called on the world to close the skies over #Ukraine and provide Ukraine with aircraft. CLOSE THE SKY OVER UKRAINE!
+
+Remedy:
+1. @EmmanuelMacron Children of #Ukraine ask - #ClosetheSkyoverUkraine! International leaders, listen to our children! OPEN your heart - CLOSE the sky! @EmmanuelMacron @eucopresident @EP_Edinburgh @EU_Commission @Europarl_EN @UN @NATO @OlafScholz @BorisJohnson #NoFlyZoneUA https://t.co/mXEyRiHSIs","The following post uses a Dismiss tactic by stating that the topic is not important: ""Europe, close the sky over Ukraine! We are all facing a major catastrophe! #StopPutin #StopRussia."" This post dismisses the importance of closing the sky over Ukraine by implying that it is not a crucial issue."
+Uganda,None.,Destabilize Uganda's government.,"The political goal of the information operation is to discredit the government of Uganda, particularly President Museveni, and to push for international intervention and sanctions against his regime.",Information operation spreading disinformation against the government of Uganda.,"There is no indication that these posts are related to Ukraine, they are likely part of an information operation, not specifically related to the country.","The major themes from the posts include:
+1. Criticism of the violent attacks and human rights abuses in Uganda under President Museveni's regime.
+2. Calls for action, sanctions, and accountability for the atrocities being committed in Uganda.
+3. Accusations of the European Union and other organizations funding and supporting the dictatorship in Uganda.
+4. Appeals for international intervention, justice, and the protection of human rights in Uganda.
+5. Expressions of concern for the escalating violence, killings, abductions, and torture in Uganda.","1. Appeal to Ignorance - This fallacy is present in the tweets that claim Museveni is carrying out a silent genocide and kidnapping Ugandans without providing concrete evidence or sources to support these claims. It relies on the ignorance of the audience to accept these statements as facts.
+
+Example: ""Stop funding the dictatorship in Uganda. Dictator @KagutaMuseveni is no longer working for Ugandans. He is carrying out a silent genocide in Uganda & kidnapping Ugandans day & night.""
+
+2. Appeal to Emotions - This fallacy can be seen in the tweets that appeal to the emotions of the readers by using terms like ""OUR BLOOD IS ON YOUR HANDS"" and ""The junta is on a killing, abducting, imprisoning, poisoning & torturing spree."" These statements are designed to provoke emotional responses rather than rational evaluation.
+
+Example: ""OUR BLOOD IS ON YOUR HANDS. Ugandans are grossly suffering before your eyes! Don't turn a blind eye on them. The junta is on a killing, abducting, imprisoning, poisoning & torturing spree.""
+
+3. Ad Hominem - The tweets that directly attack Museveni, referring to him as a despot and a dictator without providing substantial arguments or evidence, exhibit the Ad Hominem fallacy. This fallacy attempts to discredit an argument by attacking the character of the person making the argument.
+
+Example: ""The violent attacks on democratic processes through undermining rule of law in #Uganda by despot @KagutaMuseveni: have been neglected but rather funded by #EU a.k.a The Friends Of The Dictator.""","The cultural cues and in-group language being used in these posts imply a group of individuals who are critical of the Ugandan government, particularly President Kaguta Museveni, and are calling for international intervention and sanctions. The hashtags #UgMoving4wd, #EndImpunityUG21, #UgandaIsBleeding, #FreeAllPoliticalPrisonersinUganda, #M7NovMassacreUg, #MuseveniStopKillingUgandans, #UgandanLivesMatter, #Article3UG, #RiseupUg, #KUNGA, #NoMore, #DnA, #EndTortureInUganda, #M7MustGo, #AGenocidelnUganda, #RiseUpUG, and #WeAreRemovingADictator suggest a sense of unity and urgency among the speakers, likely part of a community or movement seeking justice and change in Uganda. The use of tags like @IntlCrimCourt, @coe, @UN, @UKParliament, @Europarl_EN, @USAID, @IMFNews, @POTUS, @eucopresident, @USTreasury, @hrw, @G7, @WFP, @SenateDems, @SenateFloor, @SecBlinken, @HouseGOP, @AsstSecStateAF, @HouseFloor, @HouseForeign, @SecDef, @VP, @amnesty, @JoeBiden, and @USAmbUganda indicates that they are calling on various international organizations and leaders for support in their cause.","1. Rule of law
+2. Democracy
+3. Violent attacks
+4. Human rights abuses
+5. Genocide
+6. Kidnapping
+7. Terrorism
+8. Dictatorship
+9. Sanctions
+10. Genocide
+11. Massacre
+12. Torture
+13. Democratic processes
+14. Impunity
+15. Political prisoners
+16. Indigenous rights
+17. Land grabbing
+18. Abduction
+19. Poisoning
+20. Junta",None of the posts use an Engage tactic to bring up a related but relevant topic. All the posts are focused on issues in Uganda and do not divert to a different topic like Ukraine.,"None of the posts use an Explain tactic to provide details on or elaborate on a topic. All the posts are focused on calling for action against the regime of President Museveni in Uganda, highlighting human rights abuses and violence in the country.",None of the posts use an Excite tactic to elicit positive emotion such as joy or excitement. All the posts are focused on raising awareness about the situation in Uganda and calling for action against the regime of President Museveni.,These posts do not use an Enhance tactic. They are focused on the situation in Uganda and calling for action against President Museveni.,There are no Distort tactics present in the provided posts.,"None of the posts appear to use a Dismay tactic, as they are all focused on urging action against the regime of President Museveni in Uganda.","All of the above posts are part of a coordinated campaign focused on Uganda, not Ukraine. 
+
+None of these posts use a Distract tactic to discuss a completely irrelevant topic.",21,"['@EmmanuelMacron @alferdez The violent attacks on democratic processes through undermining rule of law in #Uganda by despot @KagutaMuseveni: have been neglected but rather funded by #EU a.k.a The Friends Of The Dictator. #UgMoving4wd #EndImpunityUG21 @IntlCrimCourt @coe @UN @UKParliament @Europarl_EN', ""@EmmanuelMacron @alferdez Act in Uganda now. It's too much. How many more Ugandans do you want dead? We want actions & sanctions against @KagutaMuseveni's regime. Museveni must go. #M7NovMassacreUg #UgandaIsBleeding #NoMore #DnA #FreeAllPoliticalPrisonersinUganda @IMFNews @POTUS @eucopresident"", '@EmmanuelMacron @alferdez https://t.co/Bn4jdTvUE9 A terrorist attack during curfew hours in Uganda?🚩 #MuseveniStopKillingUgandans #UgMoving4wd #UgandanLivesMatter @UN @POTUS @SenateDems @SenateFloor @SecBlinken @HouseGOP @AsstSecStateAF @HouseFloor @SenateFloor @HouseForeign @SecDef @G7 @VP', '@EmmanuelMacron @alferdez The amount of human rights abuses in Uganda, can no longer be ignored. Innocent citizens are dying, kidnapped, tortured & most— go missing everyday. Even journalists are suffocated to report the truth. #KUNGA #RiseUpUg #Article3UG #EndTortureInUganda @VP @HRF @POTUS @USTreasury https://t.co/yz3C2Ye2ir', '@EmmanuelMacron @alferdez https://t.co/eaEt8eyQKu A terrorist attack during curfew hours in Uganda?🚩 #MuseveniStopKillingUgandans #UgMoving4wd #UgandanLivesMatter @UN @POTUS @SenateDems @SenateFloor @SecBlinken @HouseGOP @AsstSecStateAF @HouseFloor @SenateFloor @HouseForeign @SecDef @G7 @VP', '@EmmanuelMacron @alferdez Stop pretending that, #Uganda is at peace. People are being killed & many lost their lives during the legal campaign where Museveni lost to @HEBobiwine & you kept silent. WHAT IS YOUR ROLE? #RiseupUg #Article3Ug #Kunga #EndTortureInUganda @UN @hrw @G7 @VP @amnesty @JoeBiden https://t.co/MEwm4Bt5hm', '@EmmanuelMacron @alferdez https://t.co/BgxV9mtSL8 A terrorist attack during curfew hours in Uganda?🚩 #MuseveniStopKillingUgandans #UgMoving4wd #UgandanLivesMatter @UN @POTUS @SenateDems @SenateFloor @SecBlinken @HouseGOP @AsstSecStateAF @HouseFloor @SenateFloor @HouseForeign @SecDef @G7 @VP', '@EmmanuelMacron @alferdez The violent attacks on democratic processes through undermining rule of law in #Uganda by despot @KagutaMuseveni: have been neglected but rather funded by #EU a.k.a The Friends Of The Dictator. #UgMoving4wd #EndImpunityUG21 @IntlCrimCourt @coe @UN @UKParliament @Europarl_EN https://t.co/sU3lhHRLs8', '@EmmanuelMacron @alferdez Stop funding the dictatorship in Uganda. Dictator @KagutaMuseveni is no longer working for Ugandans. He is carrying out a silent genocide in Uganda & kidnapping Ugandans day & night. #M7NovMassacreUg #UgandaIsBleeding #DnA #NoMore @USAID @EUinUG @IMFNews @USAmbUganda @amnestyusa https://t.co/LGgEGyoJ16', '@EmmanuelMacron @alferdez Stop funding the dictatorship in Uganda. Dictator @KagutaMuseveni is no longer working for Ugandans. He is carrying out a silent genocide in Uganda & kidnapping Ugandans day & night. #M7NovMassacreUg #UgandaIsBleeding #DnA #NoMore @USAID @EUinUG @IMFNews @USAmbUganda @amnestyusa https://t.co/dmB7oiraoS', '@EmmanuelMacron @alferdez The violent attacks on democratic processes through undermining rule of law in #Uganda by despot @KagutaMuseveni: have been neglected but rather funded by #EU a.k.a The Friends Of The Dictator. #UgMoving4wd #EndImpunityUG21 @IntlCrimCourt @coe @UN @UKParliament @Europarl_EN https://t.co/jkNfAQS5aO', '@EmmanuelMacron @alferdez The indigenous Ugandans are killed, jailed, brutalised & their land - grabbed. Ugandans are bleeding as a result of @KagutaMuseveni & his cabal who came to Uganda as refugees. https://t.co/aPeTIDFG6n #M7NovMassacreUg #UgandaIsBleeding #UgMoving4wd @IMFNews @IntlCrimCourt @hrw', ""@EmmanuelMacron @alferdez OUR BLOOD IS ON YOUR HANDS. Ugandans are grossly suffering before your eyes! Don't turn a blind eye on them. The junta is on a killing, abducting, imprisoning, poisoning & torturing spree. #M7NovMassacreUg #UgandaIsBleeding #UgMoving4wd #BringBackOurPeople @amnesty @hrw https://t.co/bgqW4yFqvn"", ""@EmmanuelMacron @alferdez Act in Uganda now. It's too much. How many more Ugandans do you want dead? We want actions & sanctions against @KagutaMuseveni's regime. Museveni must go. #M7NovMassacreUg #UgandaIsBleeding #NoMore #DnA #FreeAllPoliticalPrisonersinUganda @IMFNews @POTUS @eucopresident https://t.co/X1S69AzeLD"", ""@EmmanuelMacron @alferdez Over 1 million deaths of innocent Ugandans & no justice; since the junta @KagutaMuseveni joined politics?! What's the point of having #MagnitskyAct? Why's the US not placing sanctions on such dictators? #Article3UG #RiseupUg #WeAreRemovingADictator #UgandaIsBleeding @POTUS @VP https://t.co/MFbhR6GEkc"", '@EmmanuelMacron @alferdez Stop sponsoring #AGenocidelnUganda by giving loans to dictator #mu7 in the name of Uganda;to promote the fake Covid19 results by poisoning decent Ugandans for funds from you. #UgandaIsBleeding @hrw #EndTortureInUganda #FreeAllPoliticalPrisoners #RiseUpUG #M7MustGo #KUNGA @WFP https://t.co/hsBWuja7Ht', '@EmmanuelMacron @alferdez The violent attacks on democratic processes through undermining rule of law in #Uganda by despot @KagutaMuseveni: have been neglected but rather funded by #EU a.k.a The Friends Of The Dictator. #UgMoving4wd #EndImpunityUG21 @IntlCrimCourt @coe @UN @UKParliament @Europarl_EN']","The main problem mentioned in the posts is the violent attacks on democratic processes, human rights abuses, and dictatorship in Uganda under President Museveni's regime. The posts are urging world leaders such as Emmanuel Macron and President Fernandez to take action, stop funding the dictatorship, and address the ongoing crisis in Uganda.","The cause of the problem stated in the tweets is the violent attacks on democratic processes, human rights abuses, and dictatorship in Uganda under President Museveni's regime. It is explicitly mentioned that President Museveni is undermining the rule of law, carrying out a silent genocide, kidnapping citizens, and committing human rights abuses. The posts also criticize world leaders like Emmanuel Macron and President Fernandez for allegedly funding the dictatorship in Uganda and not taking action against the ongoing crisis.","The remedy of the problem mentioned in these tweets is for world leaders such as Emmanuel Macron and President Fernandez to take action in Uganda immediately. This includes calling for sanctions against President Museveni's regime, stopping funding for the dictatorship, and addressing the ongoing crisis of violent attacks on democratic processes, human rights abuses, and dictatorship in Uganda. The tweets are urging for accountability, justice, and support for the people of Uganda who are suffering under the current regime.","There are no metaphors explicitly mentioned related to the problem, cause, and remedy stated in the tweets related to the topic of Uganda, not Ukraine.","Catchphrases related to the problem stated in the posts:
+1. The violent attacks on democratic processes through undermining rule of law in #Uganda 
+2. Violent attacks on democratic processes, human rights abuses, and dictatorship in Uganda
+3. The ongoing crisis in Uganda 
+4. President Museveni's regime
+
+Catchphrases related to the cause stated in the posts:
+1. Violent attacks on democratic processes, human rights abuses, and dictatorship in Uganda under President Museveni's regime
+2. President Museveni undermining the rule of law 
+3. Silent genocide in Uganda 
+4. Kidnapping citizens 
+5. Committing human rights abuses 
+6. Alleged funding of the dictatorship in Uganda by world leaders
+
+Catchphrases related to the remedy stated in the posts:
+1. World leaders taking action in Uganda immediately 
+2. Calling for sanctions against President Museveni's regime
+3. Stopping funding for the dictatorship 
+4. Seeking accountability and justice 
+5. Support for the people of Uganda 
+6. Addressing the ongoing crisis in Uganda","There are no slogans explicitly mentioned related to the problem, cause, and remedy stated in the posts regarding Ukraine. The tweets focus on calling out world leaders to take action against violent attacks on democratic processes, human rights abuses, and dictatorship in Uganda under President Museveni's regime.","Text motifs related to the problem: violent attacks on democratic processes, human rights abuses, dictatorship in Uganda, funding of dictatorship by world leaders
+
+Text motifs related to the cause: undermining rule of law, silent genocide, kidnapping citizens, human rights abuses
+
+Text motifs related to the remedy: call for sanctions, stop funding dictatorship, address ongoing crisis, support for people of Uganda, accountability, justice",None of the provided tweets are about the topic of Ukraine.,"The posts that use a Dismiss tactic are the ones that focus on the violent attacks and human rights abuses in Uganda, claiming they are being neglected and funded by others. These posts are dismissing the importance of other topics, such as the EU's involvement in Uganda and the need for sanctions against Museveni."
