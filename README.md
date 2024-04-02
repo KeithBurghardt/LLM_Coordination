@@ -29,3 +29,22 @@ This lists all outputs for coordinated accounts in each dataset.
 - Can we understand the targets, attackers and what they write?
 - Can we test and then analyze the E and D narrative components of the BEND framework?
 - Finally, can we uncover the problem, solution, remedy, slogans, etc. that these information operations want to propagate
+
+## concern_detection
+We show the code to train the Llama-7B model via instruction tuning:
+
+Training data via GPT-4 are created with:
+- batch_tuned_llm.py	
+
+
+Training the model are in concern_detection/train/:
+- train.py describes how the LLM is run
+- tuning.sh is how we run train.py
+
+Llama predictions are shown in:
+- label_sample_gpt.py
+
+Sets of prompts are shown in:
+- prompt_1b.txt
+- prompt_2a_gpt.txt
+- prompt_2a_inference.txt
