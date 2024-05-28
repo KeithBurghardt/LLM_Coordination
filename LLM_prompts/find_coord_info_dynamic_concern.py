@@ -45,25 +45,13 @@ for c,c_leg in zip(io_cols,legible_cols):
 
 # concern (maybe hazard, emotion)
 # dynamic
-# - Challenge: (2022,10,7), (2022,10,27)
-# - Phase 1a: (2017,4,27), (2017,5,7)
-# - Phase 1b: datetime(2022,4,10),datetime(2022,4,24)
-# - Phase 2a: datetime(2023,4,11), datetime(2023,4,28)
-# Compare against Princeton datasets - can we match IOs in Phases to Priceton data? What about via Twitter data?
-# Split data by concerns (or topics if challenge)
-# Use LLM to say "if concern is terrorism, what are they saying, etc."
 
-phase1a_file = 'AllCombinedTwitterData+text_new.csv'
-phase1a_G_file = 'hashtag_coord_phase1b=False.edgelist'
-phase1b_file = 'Phase1B_all_twitter_data.csv'
-phase1b_G_file = 'hashtag_coord_phase1b=True.edgelist'
-phase2a_file = 'sampled_twitter_en_tl_global_0805.jsonl'
-phase2a_G_file = 'sampled_twitter_en_tl_global_0805_Twitter_hashtag_min_hash=3.edgelist'
-challenge_file = 'challenge_problem_two_21NOV.jsonl'
-challenge_G_file = 'challenge_problem_two_21NOV_Twitter_hashtag.edgelist'
+
+post_file = 'X dataset.jsonl'
+challenge_G_file = 'Coordinated accounts.edgelist'
 tweet_sample_size = 20
 coord_size = 10
-for coord_files,G_file in [[phase1b_file,phase1b_G_file]]:#[[phase1b_file,phase1b_G_file],[phase1a_file,phase1a_G_file],[phase2a_file,phase2a_G_file],[challenge_file,challenge_G_file]]:
+for coord_files,G_file in [[post_file,challenge_G_file]]:
     data_type = 'phase1a'
     concerns = pd.DataFrame({'empty':[]})
     if str(coord_files) == str(phase2a_file):
